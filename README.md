@@ -49,6 +49,12 @@ ___
 
 ## Helpful Links
 
+
+JavaScript 30:
+* [The Video Series](https://javascript30.com)
+* [Source Code to Study](https://github.com/wesbos/JavaScript30) (Not to copy!)
+
+
 * [js.info - the document](https://javascript.info/document)
 * [js.info - page life cycle](https://javascript.info/onload-ondomcontentloaded)
 * [stackoverflow - page life cycle](https://stackoverflow.com/questions/44044956/how-does-browser-page-lifecycle-sequence-work)
@@ -56,6 +62,7 @@ ___
 * [life cycle events - simpler](http://www.breck-mckye.com/blog/2014/04/document-loading-and-DOM-lifecycle-events/)
 * [timeline in Chrome](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference)
 * [our dom resources](https://github.com/elewa-academy/the-dom)
+* [Traversy Media DOM crash course](https://www.youtube.com/watch?v=0ik6X4DJKCc), great video tutorial.  
 
 ___
 ___
