@@ -54,7 +54,7 @@ JavaScript 30:
 * [The Video Series](https://javascript30.com)
 * [Source Code to Study](https://github.com/wesbos/JavaScript30) (Not to copy!)
 
-
+Helpful Resources:
 * [js.info - the document](https://javascript.info/document)
 * [js.info - page life cycle](https://javascript.info/onload-ondomcontentloaded)
 * [stackoverflow - page life cycle](https://stackoverflow.com/questions/44044956/how-does-browser-page-lifecycle-sequence-work)
